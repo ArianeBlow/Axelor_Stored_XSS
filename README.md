@@ -1,0 +1,2 @@
+# Axelor_Stored_XSS
+Stored_XSS_axelor_WebApp
